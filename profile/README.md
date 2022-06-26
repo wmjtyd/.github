@@ -18,6 +18,6 @@
 
 ## 联系方式
 
-[![Telegram 群](./img/tg.png)](https://t.me/+osWjSO9krLxmMGE9)
-[![Slack 群](./img/slack.png)](https://join.slack.com/t/wmjtyd/shared_invite/zt-1bhwmsd7o-3t_k2jwYwcbziHZW263xJQ)
-![QQ 群](./img/qq.png)
+[![Telegram 群](https://raw.githubusercontent.com/wmjtyd/.github/main/profile/img/tg.png)](https://t.me/+osWjSO9krLxmMGE9)
+[![Slack 群](https://raw.githubusercontent.com/wmjtyd/.github/main/profile/img/slack.png)](https://join.slack.com/t/wmjtyd/shared_invite/zt-1bhwmsd7o-3t_k2jwYwcbziHZW263xJQ)
+![QQ 群](https://raw.githubusercontent.com/wmjtyd/.github/main/profile/img/qq.png)
